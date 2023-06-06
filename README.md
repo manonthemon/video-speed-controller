@@ -9,7 +9,7 @@ This is a an example of a UI element used to control a video playback speed with
 
 ## Usage
 
-You can test the app here: https://manonthemon.github.io/video-speed-controller
+You can test vide speed control here: https://manonthemon.github.io/video-speed-controller. Just hover over the speed control stripe and move the mouse to speed up or slow down the video.
 
 ## Copyright
 
